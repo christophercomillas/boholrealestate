@@ -1,6 +1,4 @@
-# Bohol Real State
-
-[Site](https://boholrealstate.herokuapp.com/) 
+# [Bohol Real State](https://boholrealstate.herokuapp.com/) 
 
 ## Built With
 [PHP](http://www.php.net/) -  Hypertext Preprocessor is a server-side scripting language designed for Web development. 
