@@ -1,0 +1,41 @@
+.main_nav {
+}
+
+.social-media-header-container{
+    margin-left: 38px;
+}
+
+.social-media-header-container ul {
+    margin: 0;
+}
+
+.social-media-header-container li {
+    display: inline;
+    padding-right: 16px;
+}
+
+.social-media-header-container a {
+    color: #fff;
+}
+
+.social-media-header-container .fa {
+    font-size: 34px;
+}
+
+.fb-comments-header{
+    margin-top: 20px;
+    color: #000;
+    font-weight: bold;
+}
+
+div._5lm5._2pi3._3-8y{
+    display: none;
+}
+
+.contact_info_text {
+    margin-top: 22px;
+}
+
+.fb-like.fb-recommend{
+    margin-top: 10px;
+}
