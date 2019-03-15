@@ -15,5 +15,7 @@ Social Plugins - Facebook for Developers
 
 Google Maps
 
+Google reCAPTCHA
+
 Designed by ColorLib
 
